@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging files
+*.log
+logs/
+
+# Ignore config files that may contain sensitive information
+config.json
+.env
+secrets.json
+
+# Ignore messages dump (optional, if you don't want to track saved messages)
+*.txt
